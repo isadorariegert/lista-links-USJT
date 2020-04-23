@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(31, 31, 32, 0.959);
+    padding-left: 40px;
+}
+
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: rgba(245, 245, 245, 0.705);
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+a{
+    color: rgb(65, 65, 131);
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+a:visited{
+    color: lightblue;
+}
+
+a:hover{
+    color: wheat;
+    background-color: cornflowerblue;
+}
+
+a:active{
+    font-size: 300%;
+}
+
+a:focus{
+    background: lightslategrey;
+    color: lightcoral;
+}
+
+#google {
+    list-style-image: url(https://icon-icons.com/icons2/673/PNG/32/Google_icon-icons.com_60497.png);
+}
+
+#twitter {
+    list-style-image: url(https://icon-icons.com/icons2/317/PNG/32/social-twitter-icon_34350.png);
+}
+
+#ytb{
+    list-style-image: url(https://icon-icons.com/icons2/1211/PNG/32/1491579609-yumminkysocialmedia08_83079.png);
+}
+
+#spt{
+    list-style-image: url(https://icon-icons.com/icons2/673/PNG/32/spotify_icon-icons.com_60457.png);
+}
+
+#whts{
+    list-style-image: url(https://icon-icons.com/icons2/99/PNG/32/whatsapp_socialnetwork_17360.png);
+}
